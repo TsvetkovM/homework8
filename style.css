@@ -1,0 +1,48 @@
+.text-box h3:first-child{
+    color: pink;
+
+}
+.text-box div p{
+    color: red;
+}
+#greycol {
+    color: grey;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.div {
+    display: flex;
+}
+
+.monday {
+    list-style: none;
+
+}
+
+.tuesday {
+    list-style: none;
+    text-decoration: underline;
+
+}
+
+.wednesday :last-child {
+    list-style: none;
+}
+.thursday:hover{
+    list-style: none
+}
+.friday{
+    list-style: none;
+    transform: scale(1.1);
+}
+.mondayli1:hover{
+    color: red;
+    background-color:#934ede ;
+}
+.mondayli2:hover{
+    background-color: blueviolet;
+    color: #28fc08;
+}
